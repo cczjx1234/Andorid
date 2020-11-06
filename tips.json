@@ -2,7 +2,7 @@
     "mouseover": [
         {
             "selector": "a[href^='http']",
-            "text": "要看看 <span style=\"color:#4285f4;\">{text}</span> 么？"
+            "text": "要点击看看吗？"
         },
         {
             "selector": "#soloKanbanniangRSS",
